@@ -25,7 +25,7 @@ Baixar o instalador no seguinte link: https://repo.anaconda.com/miniconda/Minico
 
 3. Reiniciar o terminal
 
-## 2 - Intalar Python
+## 2 - Instalar Python
 
 **Referência** -> https://docs.conda.io/en/latest/miniconda.html
 
