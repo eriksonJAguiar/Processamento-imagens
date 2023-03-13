@@ -42,7 +42,7 @@ O tutorial de instalção das ferramentas que serão utilizadas em aula pode ser
 
 ## Exercícios [Em construção]
 
-1 - Instrodução
+1 - Introdução
 
 ## Trabalho final
 
