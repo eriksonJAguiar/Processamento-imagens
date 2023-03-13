@@ -1,5 +1,6 @@
 # Configuração do Ambiente
 
+**Tutorial em video está no seguinte link:** https://youtu.be/kPXompwzS3w
 
 ## 1 - Instalar o MiniConda
 
