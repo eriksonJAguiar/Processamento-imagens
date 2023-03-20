@@ -3,7 +3,7 @@
 
 ## Contato
 
-**Email:** erjulioaguiar@usp.br
+**Email:** erjulioaguiar@usp.br; agma@icmc.usp.br
 
 
 ## Conteúdo
