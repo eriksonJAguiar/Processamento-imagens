@@ -9,6 +9,5 @@
 Obs: Escolher uma imagem arbitrária, no entanto, o teste final será com a seguinte imagem: [Equalizar](Imagens/equalizacao.jpg)
 
 ## Entrega: 
-
     - Tidia: código .py, .ipynb ou link para o github
     - Data: 17/04/2023
