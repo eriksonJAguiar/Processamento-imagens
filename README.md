@@ -38,9 +38,9 @@ O tutorial de instalção das ferramentas que serão utilizadas em aula pode ser
 
 1 - Introdução: [Introdução_pdi.ipynb](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Codigos/Introduc%C3%A3o_pdi.ipynb)
 
-2 - Histograma: [Introdução_pdi.ipynb](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Codigos/Histograma.ipynb)
+2 - Histograma: [Histograma.ipynb](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Codigos/Histograma.ipynb)
 
-3 - Filtragem espacial: [Introdução_pdi.ipynb](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Codigos/Melhoramento.ipynb)
+3 - Filtragem espacial: [Filtragem.ipynb](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Codigos/Melhoramento.ipynb)
 
 ## Exercícios [Em construção]
 
