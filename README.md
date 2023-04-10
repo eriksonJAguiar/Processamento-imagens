@@ -44,7 +44,7 @@ O tutorial de instalção das ferramentas que serão utilizadas em aula pode ser
 
 ## Exercícios [Em construção]
 
-1 - Introdução
+1 - [Equalização de histograma](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Exercicios/Histograma.md)
 
 ## Trabalho final
 
