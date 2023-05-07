@@ -10,13 +10,9 @@
 
 1 - Fundamentos do processamento de imagens
 
-2 - Filtros 
-    a - Melhoramento: (i) níveis de cinza; (ii) histograma
-    b - Espacial: (i) convolução
+2 - Filtros espaciais: (i) convolução, suavização, aguçamento
 
-3 - Transformadas
-
-4 - Restauração de imanges: (i) remoção de ruídos; (ii) deconvolução
+3 - Domínio da frequência: wavelets
 
 5 - Imagens coloridas
 
