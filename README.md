@@ -38,9 +38,15 @@ O tutorial de instalção das ferramentas que serão utilizadas em aula pode ser
 
 3 - Filtragem espacial: [Filtragem.ipynb](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Codigos/Melhoramento.ipynb)
 
+2 - Segmentação: [Filtragem.ipynb](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Codigos/Melhoramento.ipynb)
+
 ## Exercícios [Em construção]
 
 1 - [Equalização de histograma](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Exercicios/Histograma.md)
+
+2 - [Filtragem](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Exercicios/Histograma.md)
+
+3 - [Segmentação](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Exercicios/Histograma.md)
 
 ## Trabalho final
 
