@@ -1,4 +1,4 @@
-#Exercício 1 - Equalização de histograma
+# Exercício 1 - Equalização de histograma
 
 ## Implementar
   - Histograma de cores
