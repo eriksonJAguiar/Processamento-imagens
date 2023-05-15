@@ -10,8 +10,9 @@
   - Filtro Laplaciano
 
 ## Implementar para a segmentação 
-  - Utilizar a imagem: 
-  - Detecção de bordas verticais e horizontais
+  - (1) Utilizar a seguinte imagem para testes:
+    !(image)[../Imagens/wirebond_mask.tif] 
+  - (1.) Detecção de bordas verticais e horizontais
   - Detectação de bordas em 45°
   - Limizarização global
   - Otsu
