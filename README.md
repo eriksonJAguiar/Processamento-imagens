@@ -12,11 +12,11 @@
 
 2 - Filtros espaciais: (i) convolução, suavização, aguçamento
 
-3 - Domínio da frequência: wavelets
+3 - Segmentação: (i) Threshold; (ii) baseado em regiões
+
+4 - Domínio da frequência: wavelets
 
 5 - Imagens coloridas
-
-6 - Segmentação: (i) Threshold; (ii) baseado em regiões
 
 7 - Morfologia matemática
 
@@ -38,16 +38,10 @@ O tutorial de instalção das ferramentas que serão utilizadas em aula pode ser
 
 3 - Filtragem espacial: [Filtragem.ipynb](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Codigos/Melhoramento.ipynb)
 
-2 - Segmentação: [Filtragem.ipynb](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Codigos/Melhoramento.ipynb)
+2 - Segmentação: [Segmentacacao.ipynb](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Codigos/segmentacao.ipynb)
 
 ## Exercícios [Em construção]
 
 1 - [Equalização de histograma](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Exercicios/Histograma.md)
 
-2 - [Filtragem](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Exercicios/Histograma.md)
-
-3 - [Segmentação](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Exercicios/Histograma.md)
-
-## Trabalho final
-
-O trabalho final corresponde a aplicação dos métodos discutidos em aula para o aluno fixar os conhecimentos. O enunciado do trabalho pode ser encontrado no seguinte link: []
+2 - [Filtragem + Segmentacao](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Exercicios/Filtragem_segmentacao.md)
