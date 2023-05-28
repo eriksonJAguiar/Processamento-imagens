@@ -40,7 +40,7 @@ O tutorial de instalção das ferramentas que serão utilizadas em aula pode ser
 
 2 - Segmentação: [Segmentacacao.ipynb](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Codigos/segmentacao.ipynb)
 
-## Exercícios [Em construção]
+## Exercícios
 
 1 - [Equalização de histograma](https://github.com/eriksonJAguiar/Processamento-imagens/blob/main/Exercicios/Histograma.md)
 
