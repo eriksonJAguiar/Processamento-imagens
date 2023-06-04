@@ -2,3 +2,4 @@ Codigos/.ipynb_checkpoints/*
 .DS_Store
 Codigos/data/*
 Codigos/logs/*
+Codigos/lightning_logs/*
